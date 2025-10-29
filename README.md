@@ -5,7 +5,7 @@
 
 ¡No busques más! Este script es la solución *sobredimensionada* a un problema que probablemente tengas una vez cada 5 años.
 
-## ✨ Características *Increíblemente Útiles*
+## ✨ Características *Increíblemente (In)Útiles*
 
 - **🚀 Debugging Nuclear**: Porque a veces necesitas 200 líneas de log para saber que te equivocaste en la contraseña
 - **🔍 Resolución DNS épica**: Descubre que tu servidor existe (o no) con un dramatismo digno de Hollywood  
